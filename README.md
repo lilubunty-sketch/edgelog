@@ -1,0 +1,2 @@
+# edgelog
+trading journal
